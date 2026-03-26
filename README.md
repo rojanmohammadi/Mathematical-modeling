@@ -8,9 +8,10 @@ This repository contains computational simulations and theoretical analyses deve
 - Cancer Genomics:Analysis of Site-Frequency Spectrum (SFS) and the role of ecDNA (extrachromosomal DNA) in tumor heterogeneity and treatment resistance.
 
 ## 📁 Files in this Repository
-- `Stochastic-Modelling-Simulations.ipynb`: Jupyter Notebook containing Python code for stochastic simulations of cell divisions and fixation times.
-- `Theoretical-Analysis-Cancer-Evolution.pdf`: In-depth report discussing cancer evolution, ecDNA dynamics, and evolutionary models.
-- `Assignment-Instructions.pdf`: Technical requirements and problem sets addressed in this project.
+## 📁 Files in this Repository
+- [Stochastic-Modelling-Simulations.ipynb](Stochastic-Modelling-Simulations.ipynb)
+- [Theoretical-Analysis-Cancer-Evolution.pdf](Theoretical-Analysis-Cancer-Evolution.pdf)
+- [Assignment-Instructions.pdf](Assignment-Instructions.pdf)
 
 ## 🛠 Skills Demonstrated
 - Programming:Python (NumPy, Matplotlib)
